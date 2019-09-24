@@ -1,2 +1,10 @@
 la cancion de juan
+<<<<<<< HEAD
 se llama: lipsu si señol
+=======
+se llama
+
+<head> Jajajajaja </head>
+
+Esta parte es una lipso
+>>>>>>> cabecera
